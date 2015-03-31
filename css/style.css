@@ -1,0 +1,26 @@
+.notes {
+  background-color: #F2F2F3;
+  border-radius: 30px;
+  color: #1FDA9A;
+  padding: 10px;
+}
+h1 {
+	text-align: center;
+	color: #1FDA9A;
+}
+h2 {
+  background-color: #EE4B3E;
+  text-align: center;
+  border-radius: 10px;
+  color: #DFDED4
+}
+.body {
+  font-family: arial;
+  font-size: 14px;
+}
+h3 {
+  background-color: #EE4B3E;
+  text-align: center;
+  border-radius: 20px;
+  color: #DFDED4;
+}
